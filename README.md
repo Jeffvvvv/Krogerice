@@ -22,4 +22,8 @@ JDBC
 Cloud Database on AWS
 
 ## Routes
-We have totaly 11 web pages for our system.
+We have totaly 11 web pages for our system. You can look through our souce code from the two folders **front-end** and **back-end**. 
+
+The front-end folder contains a series of html source code and corresponding css files.
+
+The back-end folder contains the souce code for JDBC.
